@@ -5,7 +5,7 @@ loguru==0.6.0
 numpy==1.21.6
 selenium==4.2.0
 texttable==1.6.4
-torch==1.11.0
+torch==2.2.0
 matplotlib~=3.5.2
 networkx==2.8.4
 py-jsonic
